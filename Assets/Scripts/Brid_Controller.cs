@@ -37,7 +37,7 @@ public class Brid_Controller : MonoBehaviour
             FaceDown();
         }
     }
-
+    //
     void Flap ()
     {
         animator.SetTrigger("IsFlap");
